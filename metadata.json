@@ -1,0 +1,6 @@
+{
+  "name": "CARECU — Reprogrammation & Fichiers ECU",
+  "description": "Reprogrammation calculateur toutes marques, calibration WinOLS et vente de fichiers ECU certifiés pour véhicules de toutes marques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
